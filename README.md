@@ -101,7 +101,8 @@ Tampilan Hasil Produk
 <img width="1366" height="768" alt="2026-11-08 (4)" src="https://github.com/user-attachments/assets/7a30de82-dbfb-4942-9181-0a3854b73bfd" />
 
 Detail Produk
-<img width="1366" height="768" alt="2026-11-08 (4)" src="https://github.com/user-attachments/assets/77abc42a-feff-4a98-8ed7-13f7913211c0" />
+<img width="1366" height="768" alt="2026-11-08 (6)" src="https://github.com/user-attachments/assets/4deee150-c813-4fbd-be7b-5bd87bbe359a" />
+
 
 Hapus Produk
 <img width="1366" height="768" alt="2026-11-08 (7)" src="https://github.com/user-attachments/assets/531af108-e5b5-468d-a3e3-fe7cc07c7dc9" />
