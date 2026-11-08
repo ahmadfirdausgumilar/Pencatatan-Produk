@@ -93,15 +93,6 @@ mvn clean javafx:run
 5. Klik satu baris, lalu **Lihat Detail** untuk membuka halaman detail.
 6. Pilih satu baris lalu **Hapus** untuk menghapus produk (ada konfirmasi).
 
-## Pemecahan masalah
-
-| Masalah | Solusi |
-|---|---|
-| `Failed to delete ...\target\test-classes` saat Clean | Tutup NetBeans, hapus folder `target`, lalu buka lagi. Hindari menaruh proyek di folder **OneDrive** atau path yang berisi karakter non-Latin. |
-| `Error resolving onAction='#...'` | Nama handler di file `.fxml` tidak sama dengan method di controller. |
-| Aplikasi tidak berubah setelah edit | Jalankan **Clean and Build** lagi. |
-| Dependensi JavaFX gagal diunduh | Pastikan terhubung ke internet, lalu klik kanan proyek > **Reload POM**. |
-
 
 Tampilan awal yang harus diisi
 <img width="1366" height="768" alt="2026-11-08" src="https://github.com/user-attachments/assets/c9edc7b8-6346-4180-8117-6e9dcd536ee1" />
