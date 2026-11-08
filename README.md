@@ -18,14 +18,6 @@ Aplikasi desktop sederhana untuk mencatat produk toko, dibuat dengan **JavaFX + 
 
 Data disimpan di memori selama aplikasi berjalan (tanpa database).
 
-## Tangkapan layar
-
-| Form tambah produk | Daftar produk |
-|---|---|
-| ![Form](screenshots/form.png) | ![Daftar](screenshots/daftar.png) |
-
-![Detail](screenshots/detail.png)
-
 ## Struktur proyek
 
 ```
